@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/sinohope/sinohope-golang-sdk/common"
-	"github.com/sinohope/sinohope-golang-sdk/core/gateway"
-	"github.com/sinohope/sinohope-golang-sdk/features"
+	"github.com/cs-sea/golang-sdk/common"
+	"github.com/cs-sea/golang-sdk/core/gateway"
+	"github.com/cs-sea/golang-sdk/features"
 )
 
 type mpcNode struct {

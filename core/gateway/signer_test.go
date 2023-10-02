@@ -2,8 +2,8 @@ package gateway
 
 import (
 	"encoding/json"
-	"github.com/sinohope/sinohope-golang-sdk/common"
-	"github.com/sinohope/sinohope-golang-sdk/log"
+	"github.com/cs-sea/golang-sdk/common"
+	"github.com/cs-sea/golang-sdk/log"
 	"testing"
 )
 

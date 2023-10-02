@@ -4,11 +4,11 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/sinohope/sinohope-golang-sdk/core/sdk"
-	"github.com/sinohope/sinohope-golang-sdk/log"
+	"github.com/cs-sea/golang-sdk/core/sdk"
+	"github.com/cs-sea/golang-sdk/log"
 	"github.com/sirupsen/logrus"
 
-	"github.com/sinohope/sinohope-golang-sdk/common"
+	"github.com/cs-sea/golang-sdk/common"
 )
 
 var (

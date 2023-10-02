@@ -1,6 +1,6 @@
 package features
 
-import "github.com/sinohope/sinohope-golang-sdk/common"
+import "github.com/cs-sea/golang-sdk/common"
 
 type SinohopeWaaSAPI interface{}
 

@@ -8,8 +8,8 @@ import (
 	http2 "net/http"
 	"time"
 
-	"github.com/sinohope/sinohope-golang-sdk/common"
-	"github.com/sinohope/sinohope-golang-sdk/features"
+	"github.com/cs-sea/golang-sdk/common"
+	"github.com/cs-sea/golang-sdk/features"
 	"github.com/sirupsen/logrus"
 )
 
